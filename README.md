@@ -14,6 +14,7 @@ I'm a backend developer with experience in technologies such as Javascript, Node
 I have a degree in business administration and a technologist degree in software development, but most importantly, I'm always eager to learn and improve my skills.
 <br />
 
+
 ---
 ## I'm a  BA in Business  and a Backend Developer!!
 
@@ -27,10 +28,9 @@ I have a degree in business administration and a technologist degree in software
 
 ## Find me around the web 🌎:
 
-<a href="https://www.linkedin.com/in/DavidsDvm">
+<a href="https://www.linkedin.com/in/yohan-olmedo/">
       <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
     </a>
-
 <br />
 
 <br />
