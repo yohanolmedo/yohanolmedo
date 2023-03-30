@@ -24,7 +24,7 @@ I have a degree in business administration and a technologist degree in software
 - 😄 I'm open to learn new technologies!!!
 - 📫 How to reach me **yohanwebdev@gmail.com**
 
-- 📚 Professional projects in my [Github](https://github.com/yohanolmedo) repository 
+- 📚 Professional projects in my [Github](https://github.com/yohanolmedo?tab=repositories) repository 
 
 ## Find me around the web 🌎:
 
