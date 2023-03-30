@@ -1,7 +1,9 @@
+
 ## Hi, I'm Yohan 👋
 <br />
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc5NGQxYTE1Mzc3ZTUzMGNmM2U1NDUyZGMyZTkxNDc1YTdjNjRiNiZjdD1n/ndM7oIOjaDQOhMKtF3/giphy.gif" width="250">
+
 
 I'm from <strong>Colombia 🇨🇴🇨🇴</strong>.
 <br />
@@ -11,7 +13,6 @@ I'm a backend developer with experience in technologies such as Javascript, Node
 
 I have a degree in business administration and a technologist degree in software development, but most importantly, I'm always eager to learn and improve my skills.
 <br />
-
 
 ---
 ## I'm a  BA in Business  and a Backend Developer!!
@@ -26,10 +27,9 @@ I have a degree in business administration and a technologist degree in software
 
 ## Find me around the web 🌎:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
+<a href="https://www.linkedin.com/in/DavidsDvm">
+      <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
+    </a>
 
 <br />
 
