@@ -1,9 +1,7 @@
 ## Hi, I'm Yohan 👋
 <br />
 
-
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc5NGQxYTE1Mzc3ZTUzMGNmM2U1NDUyZGMyZTkxNDc1YTdjNjRiNiZjdD1n/ndM7oIOjaDQOhMKtF3/giphy.gif" width="250">
-
 
 I'm from <strong>Colombia 🇨🇴🇨🇴</strong>.
 <br />
